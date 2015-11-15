@@ -1,4 +1,4 @@
-package com.ikota.reactivesample.ui.mvp.reactive_sample;
+package com.ikota.mvpsample.reactivesample;
 
 import android.widget.Button;
 

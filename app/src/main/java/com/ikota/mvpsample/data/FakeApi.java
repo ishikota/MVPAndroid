@@ -1,9 +1,9 @@
-package com.ikota.reactivesample.data;
+package com.ikota.mvpsample.data;
 
 import android.os.AsyncTask;
 import android.os.SystemClock;
 
-import com.ikota.reactivesample.model.Photo;
+import com.ikota.mvpsample.model.Photo;
 
 
 public class FakeApi {

@@ -1,4 +1,4 @@
-package com.ikota.reactivesample.model;
+package com.ikota.mvpsample.model;
 
 import java.util.ArrayList;
 

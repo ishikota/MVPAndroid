@@ -1,12 +1,12 @@
-package com.ikota.reactivesample.ui.mvp.reactive_sample;
+package com.ikota.mvpsample.reactivesample;
 
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.ikota.reactivesample.R;
-import com.ikota.reactivesample.data.FakeApi;
-import com.ikota.reactivesample.model.Photo;
+import com.ikota.mvpsample.R;
+import com.ikota.mvpsample.data.FakeApi;
+import com.ikota.mvpsample.model.Photo;
 
 import java.util.ArrayList;
 

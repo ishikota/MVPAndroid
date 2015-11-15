@@ -1,4 +1,4 @@
-package com.ikota.reactivesample;
+package com.ikota.mvpsample;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

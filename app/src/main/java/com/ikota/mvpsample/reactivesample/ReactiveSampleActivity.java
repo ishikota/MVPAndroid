@@ -1,4 +1,4 @@
-package com.ikota.reactivesample.ui.mvp.reactive_sample;
+package com.ikota.mvpsample.reactivesample;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -11,7 +11,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.ikota.reactivesample.R;
+import com.ikota.mvpsample.R;
 import com.squareup.picasso.Picasso;
 
 import butterknife.ButterKnife;
